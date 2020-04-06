@@ -1,0 +1,58 @@
+A:link {
+FONT-SIZE: 12px; 
+COLOR: #6A6A6A; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+H4 {
+FONT-SIZE: 16px; 
+COLOR: #FFCC33; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+H5{
+FONT-SIZE: 14px; 
+COLOR: #FFCC33; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+A:visited {
+FONT-SIZE: 12px; 
+COLOR: #FFCC33; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+A:active {
+FONT-SIZE: 12px; 
+COLOR: #FFFFFF; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+A:hover {
+FONT-SIZE: 12px; 
+COLOR: #AAAAAA; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: underline
+}
+BODY {
+FONT-SIZE: 12px; 
+CURSOR: default; 
+COLOR: #444444; 
+BACKGROUND-color: #bcbcbc; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+
+P {
+FONT-SIZE: 12px; 
+COLOR: #565775; 
+LINE-HEIGHT: 1.4; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
+TABLE {
+FONT-SIZE: 12px; 
+COLOR: #FFFFFF; 
+FONT-FAMILY:  arial, helvetica, verdana, sans-serif; 
+TEXT-DECORATION: none
+}
